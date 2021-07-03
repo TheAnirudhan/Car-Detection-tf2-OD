@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AllImages</folder>
+	<filename>images (7).jpeg</filename>
+	<path>D:\gitclones\Car Detection\Tensorflow\workspace\images\AllImages\images (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>114</ymin>
+			<xmax>118</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
